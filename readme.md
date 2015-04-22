@@ -7,7 +7,7 @@ MatrixMaker is a software written in Perl to automate the creation of custom blo
 It makes use of UniRef50/90 clusters and the BLOCKS server to create the scoring martices
 
 
-![Screenshot for MatrixMaker](/home/pushkar/Dropbox/Organizer/Codes/M.Sc/MatrixMaker/Images/matrix_maker_screenshot.png) 
+![Screenshot for MatrixMaker](https://github.com/pushkardakle/MatrixMaker/blob/master/img/matrix_maker_screenshot.png) 
 
 The software accepts the following inputs
 

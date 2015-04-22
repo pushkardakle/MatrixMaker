@@ -25,7 +25,7 @@ speed but compromise accuracy.
 * Taxons to Select – This parameter accepts a list of scientific names separated by
 newline for the organisms to which the matrix creation will be limited. If kept blank there
 will be no taxonomic limitations for the creation of the matrix.
-* Proxy – If enabled the network connections will be made through specified proxy.
+* Proxy – If enabled the network connections will be made through specified proxy. The proxy information can be edited in the script
 * Prioritization – This parameter if enables emulates the selection of proteins from
 taxonomically diverse organisms for the creation of the matrix.
 * UniRefNo – Gives the option of UniRef50/UniRef90 clusters to be chosen for the

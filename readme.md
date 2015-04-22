@@ -31,5 +31,20 @@ taxonomically diverse organisms for the creation of the matrix.
 * UniRefNo – Gives the option of UniRef50/UniRef90 clusters to be chosen for the
 creation of the matrix.
 
+### Usage
+The usage is pretty simple
+
+```Shell
+perl  MatrixMaker.pl
+```
+
+### Prerequisites
+The following perl modules are required to be preinstalled
+
+- Tk
+- LWP
+- WWW::Mechanize
+
+
 
 
